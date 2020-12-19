@@ -19,7 +19,7 @@
 </table>
 <div align="center">
 	<h2>회원가입 페이지</h2>
-	<form action="memberJoinAction.me" method="post">
+	<form action="UserController" method="post">
 		<table border="1">
 			<tr>
 				<th>아이디</th>
